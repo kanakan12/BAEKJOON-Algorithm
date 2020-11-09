@@ -1,2 +1,1 @@
-# BAEKJOON-Algorithm
-BAEKJOON - Algorithm Test
+[1018](https://www.acmicpc.net/problem/1018)
