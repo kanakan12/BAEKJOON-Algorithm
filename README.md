@@ -2,3 +2,4 @@
 [1182](https://www.acmicpc.net/problem/1182)
 [1449](https://www.acmicpc.net/problem/1449)
 [1700](https://www.acmicpc.net/problem/1700)
+[1074](https://www.acmicpc.net/problem/1700)
