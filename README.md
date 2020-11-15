@@ -4,3 +4,4 @@
 [1700](https://www.acmicpc.net/problem/1700)
 [1074](https://www.acmicpc.net/problem/1074)
 [1493](https://www.acmicpc.net/problem/1493)
+[1629](https://www.acmicpc.net/problem/1629)
