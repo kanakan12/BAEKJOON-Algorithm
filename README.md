@@ -8,3 +8,4 @@
 [1725](https://www.acmicpc.net/problem/1725)
 [1780](https://www.acmicpc.net/problem/1780)
 [1931](https://www.acmicpc.net/problem/1931)
+[1992](https://www.acmicpc.net/problem/1992)
