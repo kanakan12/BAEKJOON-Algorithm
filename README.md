@@ -11,3 +11,4 @@
 [1992](https://www.acmicpc.net/problem/1992)
 [2104](https://www.acmicpc.net/problem/2104)
 [2193](https://www.acmicpc.net/problem/2193)
+[11726](https://www.acmicpc.net/problem/11726)
