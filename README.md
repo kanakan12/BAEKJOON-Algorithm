@@ -12,3 +12,4 @@
 [2104](https://www.acmicpc.net/problem/2104)
 [2193](https://www.acmicpc.net/problem/2193)
 [11726](https://www.acmicpc.net/problem/11726)
+[2294](https://www.acmicpc.net/problem/2294)
